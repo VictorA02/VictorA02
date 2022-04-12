@@ -3,5 +3,5 @@
 - 📚 Atualmente estudo na Análise e Desenvolvimento de Sistemas na Fatec RP, estou no quinto semestre
 - 📖 Sou familiarizado com Inglês, HTML, CSS e JS, além de conhecimento básico em Jquery, React, Oracle, Git, C++ Flutter, Funcionamento WEB e os comandos POST e GET
 - ✔️ Tenho curso de Inglês nível avançado (B2), HTML CSS JS React Jquery (Udemy) e IT Essentials: PC Hardware and Software (Cisco).
-- 🖥️ Atualmente tenho um único projeto realizado, o do site www.emittrade.com e já estou realizando o meu segundo, onde quero melhorar o site inserindo Javascript e Jquery.
+- 🖥️ Atualmente tenho um único projeto realizado, o do site www.emittrade.com onde eu utilizo HTML, CSS e JS básicos.
 - 📫 Para entrar em contato comigo basta enviar um e-mail para victor.varaujo02@gmail.com
