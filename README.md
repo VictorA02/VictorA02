@@ -1,7 +1,26 @@
-- 👋 Olá, eu sou o Victor
-- 👀 Estou interessado em vaga de estágio na área de programação
-- 📚 Atualmente estudo na Análise e Desenvolvimento de Sistemas na Fatec RP, estou no quinto semestre
-- 📖 Sou familiarizado com Inglês, HTML, CSS e JS, além de conhecimento básico em Jquery, React, Oracle, Git, C++ Flutter, Funcionamento WEB e os comandos POST e GET
-- ✔️ Tenho curso de Inglês nível avançado (B2), HTML CSS JS React Jquery (Udemy) e IT Essentials: PC Hardware and Software (Cisco).
-- 🖥️ Atualmente tenho um único projeto realizado, o do site www.emittrade.com onde eu utilizo HTML, CSS e JS básicos.
-- 📫 Para entrar em contato comigo basta enviar um e-mail para victor.varaujo02@gmail.com
+# 👋 Sejam bem vindos, eu sou o Victor
+<div>
+<a href="https://api.whatsapp.com/send?phone=5516993200488" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/victorv_araujo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/victorvaraujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="mailto:victor.varaujo02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+<br>
+I'm passionate for code and games 🎮❤️
+<br>
+<br>
+On a constant way to improve my HTML skills
+Actually I'm learning about UI and UX
+<br>
+
+## Languages & Tools 🛠️
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=50 width=50/> <img                                             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=50 width=50 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height=50 width=50/> <img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height=50 width=50 />
+
+## Actually learning 🎓
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=50 width=50/>
+
+## Wish to Learn
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=50 width=50/> <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=50 width=50 />
